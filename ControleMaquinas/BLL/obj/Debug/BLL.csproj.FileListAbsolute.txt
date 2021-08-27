@@ -1,0 +1,2 @@
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

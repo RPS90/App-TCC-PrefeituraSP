@@ -1,0 +1,5 @@
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\Modelo\bin\Debug\Modelo.dll
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\Modelo\obj\Debug\Modelo.dll
+C:\Users\VM\Source\Repos\RPS90\App-TCC-PrefeituraSP\ControleMaquinas\Modelo\obj\Debug\Modelo.pdb
